@@ -1,5 +1,3 @@
-
-
 const GraphUtil = require('./utils/GraphUtil');
 const sortTasksByPriority = require('./helpers/sortTasksByPriority');
 const assignTaskRecursively = require('./helpers/assignTaskRecursively');
