@@ -30,7 +30,6 @@ The Task Assignment Management System is a tool designed to efficiently assign t
 src/
 │   ├── helpers/
 │   │   ├── assignTaskRecursively.js # Recursive task assignment logic
-│   │   ├── hasNoDependencies.js # Checks if a task has dependencies
 │   │   └── sortTasksByPriority.js # Sorts tasks based on priority 
 │   ├── utils/
 │   │   └── GraphUtil.js # Utility class for handling task dependency graphs 
